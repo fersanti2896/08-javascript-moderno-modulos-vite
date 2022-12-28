@@ -2,5 +2,6 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-    base: '/08-javascript-moderno-modulos-vite/'
+    base: '/08-javascript-moderno-modulos-vite/',
+    plugins: []
 });
