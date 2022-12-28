@@ -1,4 +1,4 @@
-# Sección 9 - Módulos y Vite
+# Sección 8 - Módulos y Vite
 ___
 
 Esta sección es sumamente importante, porque se explica cosas fundamentales para el desarrollo de aplicaciones de JavaScript moderno.
